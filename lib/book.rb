@@ -9,7 +9,6 @@ class Book
 
   def author=(author)
     @author
-
   end
 
 end
